@@ -1,0 +1,36 @@
+
+body {
+    background-color:ivory;
+    text-align:center;
+    padding-top:18%;
+    height: 100vh;
+    width: 100vw;
+}
+
+#input_box {
+    padding-bottom:10px;
+}
+#left {
+    text-align: center;
+}
+
+#right {
+    text-align:center;
+}
+
+#equal {
+    background-color:navy;
+    color:ghostwhite;
+    margin:5px;
+}
+
+#clear {
+    background-color:crimson;
+    color:ghostwhite;
+    margin: 5px;
+}
+
+#results {
+    margin-top:25px;
+    font-size:150%;
+}
